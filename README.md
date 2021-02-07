@@ -14,4 +14,14 @@ Authors:
 > 8. Wazirsec
 > 9. Alph4_ch4rlie
 
+Website: https://cscodershub.tech
+
+Instagram: https://www.instagram.com/cscodershub
+
+Twitter: https://www.twitter.com/cscodershub
+
+Linkedin: https://www.linkedin.com/company/cscodershubindia
+
+Discord: https://discord.com/invite/K5K9Yaz
+
 
