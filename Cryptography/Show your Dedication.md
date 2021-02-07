@@ -8,8 +8,5 @@ The content of the paper is given below :-
 
 > powv wlck zs JICLQaFRNH
 
-Help James to decode the text and win the race. 
-
-
-
-  
+Help James to decode the text and win the race.
+**Author: AlPH4_CH4RLIE**
