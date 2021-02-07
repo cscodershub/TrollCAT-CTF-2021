@@ -5,7 +5,9 @@ After travelling for 6 hours without food and water, he met a tribal man. He was
 Rohit was delighted to see him and ran straight to him for seeking help. The tribal man agreed to help him but only on ONE condition.
 That condition was to help the tribal man understand some random text which was etched on a stone tablet for the last 1000 years!!!
 The text etched on the stone tablet is given below :-
-
-> TWVyY3VyeVZlbnVzRWFydGhNYXJzSnVwaXRlclNhdHVyblVyYW51c05lcHR1bmU=
-
+```
+TWVyY3VyeVZlbnVzRWFydGhNYXJzSnVwaXRlclNhdHVyblVyYW51c05lcHR1bmU=
+```
 Help Rohit to decode this text. Who knows? It might also help you to find your flag ;) 
+> Flag Format: Trollcat{}
+> Author: AlPH4_CH4RLIE
