@@ -8,7 +8,7 @@ CTFTIME LINK: https://ctftime.org/event/1257
 ```
 Authors:
 ```
-> 1. MrGrep
+> 1. [MrGrep](https://www.twitter.com/imabhisarpandey)
 > 2. Defalt
 > 3. Wh1t3r0s3
 > 4. White_Wolf 
